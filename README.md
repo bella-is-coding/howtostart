@@ -4,7 +4,7 @@ Just trying
 Ohmygod
 grass growing
 high
-
+He
 
 ADT Array
      object : index의 각 값에 대하여 집합 item에 속한 한 값이 존재하는 <index, value>쌍의 집합. 
