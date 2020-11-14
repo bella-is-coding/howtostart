@@ -5,7 +5,7 @@ Ohmygod
 grass growing
 high
 He
-
+Llo
 ADT Array
      object : index의 각 값에 대하여 집합 item에 속한 한 값이 존재하는 <index, value>쌍의 집합. 
                   index는 일차원 또는 다차원 유한 순서 집합이다. 예를 들면, 1차원의 경우 {0, …., n-1}과 
