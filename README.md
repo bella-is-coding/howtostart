@@ -49,5 +49,5 @@ model.load_weights(checkpoint_path)
 
 """## 학습한 후 검증하고 싶다면?"""
 
-model.evaluate(x_valid, y_valid)
+model.evaluate(x_valid, y_valid) 
 
