@@ -14,7 +14,7 @@ x_valid = x_valid / 255.0
 
 tf.keras.backend.set_floatx('float64')
 
-x = Flatten(input_shape=(28, 28))
+x = Flatten(input_shape=(28, 28)) 
 print(x(x_train).shape)
 
 model = Sequential([
