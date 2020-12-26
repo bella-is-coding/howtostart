@@ -11,6 +11,8 @@ fashion_mnist = tf.keras.datasets.fashion_mnist
 
   
 
+
+
 x_train = x_train / 255.0
 x_valid = x_valid / 255.0
 
