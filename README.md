@@ -3,6 +3,8 @@ import numpy as np
 
 
 
+
+
 from tensorflow.keras.layers import Dense, Flatten
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.callbacks import ModelCheckpoint
